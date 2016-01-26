@@ -9,6 +9,7 @@
 		"email": "sam@silverstripe.com"
 	}],
 	"require": {
+		"ext-sqlite": "*",
 		"silverstripe/framework": ">=3.0.0",
 		"silverstripe/external-content": "*",
 		"cuab/phpcrawl": "*"
